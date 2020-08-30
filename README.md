@@ -7,7 +7,7 @@
 | CSS3 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark:
 | SASS/SCSS | :white_check_mark: | :white_check_mark: | :white_check_mark:
 | Bootstrap | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark:
-| JavaScript | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark:
+| JavaScript | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | ES6 | :white_check_mark: | :white_check_mark:
 | Jquery | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark:
 | ReactJS | :white_check_mark: | :white_check_mark: |
@@ -30,3 +30,17 @@
 | SQL | :white_check_mark: | :white_check_mark:
 | WordPress | :white_check_mark: | :white_check_mark: | :white_check_mark:
 | Modx | :white_check_mark: | :white_check_mark: | :white_check_mark:
+
+## Обучение
+
+| Дата | Название | Место
+| --- | --- | --- |
+| август 2020 | Основы реляционных баз данных | [Hexlet](https://ru.hexlet.io/courses/rdb-basics)
+| август 2020 | Основы Django | [Hexlet](https://ru.hexlet.io/courses/python-django-basics)
+| июль 2020 | Алгоритмы и структуры данных часть 2 | [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain) |
+| май - июнь 2020 | Алгоритмы и структуры данных часть 1 | [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain) |
+| март - май 2020 | 24 задачки плавно увеличивающейся сложности | [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain) |
+| июль 2019 - январь 2020 | Курс "Профессия фронтутд-программист" | [Hexlet](https://ru.hexlet.io/professions/frontend)
+| март 2019 | Codefest X | Новосибирск |
+| сентябрь 2018 | FrontTalks (Yandex) | Екатеренбург |
+| март 2018 | Codefest IX | Новосибирск |
